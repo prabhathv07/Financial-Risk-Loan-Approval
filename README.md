@@ -255,4 +255,4 @@ The program will:
 
 **Prabhath Vinay Vipparthi**
 MS Data Science — New Jersey Institute of Technology (May 2026)
-[GitHub](https://github.com/prabhathv07) · [LinkedIn](https://linkedin.com/in/prabhath-vinay-vipparthi)
+[GitHub](https://github.com/prabhathv07) · [LinkedIn](https://www.linkedin.com/in/prabhath-vipparthi-90544b225/)
