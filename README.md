@@ -177,7 +177,7 @@ Test set: 4,000 instances (held out before SMOTE).
 
 ---
 
-## ⚠️ Important Note on Perfect Metrics
+## Important Note on Perfect Metrics
 
 All 6 models achieved 100% accuracy. This is an expected outcome of this dataset + SMOTE combination, not necessarily an indicator of real-world performance.
 
